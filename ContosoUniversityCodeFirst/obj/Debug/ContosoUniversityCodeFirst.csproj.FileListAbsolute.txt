@@ -28,3 +28,7 @@ c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniver
 c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\EntityFramework.SqlServer.dll
 c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\EntityFramework.xml
 c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\EntityFramework.SqlServer.xml
+c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\PagedList.dll
+c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\PagedList.Mvc.dll
+c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\PagedList.xml
+c:\users\work\documents\visual studio 2013\Projects\NETMvcTutorial\ContosoUniversityCodeFirst\bin\PagedList.Mvc.xml
